@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Jenna
+          Learn React with Jenna and MSU!
         </a>
       </header>
     </div>
